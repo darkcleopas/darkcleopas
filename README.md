@@ -13,7 +13,7 @@ I have BS degree in Science and Technology :mortar_board: from the Federal Unive
 - using Computer Vision algorithms in some personal projects
 
 ## 🌱 I’m always learning ...
-- Machine Learning, focusing in Computer Vision
+- Machine Learning, now focusing in Computer Vision
 - some Data Science features
 - best programming pratices
 
