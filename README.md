@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/darkcleopas)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=instagram&logoColor=white)](https://t.me/darkcleopas)
 
-I have BS degree in Science and Technology :mortar_board: from the Federal University of Maranhão - UFMA. Also from UFMA, I'm finishing the Computer Engineering BS degree 📚. I'm Software Developer Assistant and I aspiring to be a Machine Learning Engineer Specialist! ⚙️
+I have BS degree in Science and Technology :mortar_board: from the Federal University of Maranhão - UFMA. Also from UFMA, I'm finishing the Computer Engineering BS degree 📚. I'm Software Developer and I aspiring to be a Machine Learning Engineer Specialist! ⚙️
 
 ## 🔭 I’m currently working on ...
 - assisting in the development of AI products with a focus on Communications Platform as a Service (CPaaS) in a multinational company
